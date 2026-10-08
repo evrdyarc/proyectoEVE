@@ -11,7 +11,7 @@ const BarraNavegacion = () => {
      >
         <Container>
             <Navbar.Brand href="#inicio" className="fw-bold">
-              pilar Tecno
+              Pilar Tecno
              </Navbar.Brand>
 
                <Navbar.Toggle aria-controls="navbar-principal" />
